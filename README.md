@@ -92,7 +92,7 @@ Therefore, I have created a low-fidelity prototype to demonstrate how these feat
 **Link**: [Click here](https://drive.google.com/file/d/15jNLCwELA11nwOt0D2m19W228wFOzXPt/view?usp=sharing)
 
 
- ! [revised](Dh150-Sem1-low fidelity Prototype -4.jpg)
+ ! [revised](4.png)
 
 
 ## Testing Screen Capture Video:
@@ -110,13 +110,13 @@ Therefore, I have created a low-fidelity prototype to demonstrate how these feat
 **Link**: [Click here](https://drive.google.com/file/d/1yg2fcQNP5A2I62ja0g41BTXComa_xH1x/view?usp=sharing)
 
 
-![stage1](Dh150-Sem1-low fidelity Prototype -2.jpg)
+![stage1](2.png)
 
 
 **Link**: [Click here](https://drive.google.com/file/d/1JeQ7GSQ3Q27JThGj7iMNCAnM_f9-S-pq/view?usp=sharing)
 
 
-![stage2](Dh150-Sem1-low fidelity Prototype -3.jpg)
+![stage2](3.png)
 
 
 
