@@ -84,7 +84,7 @@ Therefore, I have created a low-fidelity prototype to demonstrate how these feat
 
 
 ![Original](Dh150-Sem1-low fidelity Prototype -1.jpg)
-<img scr="./Dh150-Sem1-low fidelity Prototype -1.jpg">
+<img scr="./Dh150-Sem1-low fidelity Prototype -1.jpg" width=”50%”>
 
 
 ### Revised
