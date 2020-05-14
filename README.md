@@ -92,7 +92,7 @@ Therefore, I have created a low-fidelity prototype to demonstrate how these feat
 **Link**: [Click here](https://drive.google.com/file/d/15jNLCwELA11nwOt0D2m19W228wFOzXPt/view?usp=sharing)
 
 
- ! [revised](4.png)
+![revised](4.png)
 
 
 ## Testing Screen Capture Video:
@@ -106,11 +106,18 @@ Therefore, I have created a low-fidelity prototype to demonstrate how these feat
 ## Testing Images:
 
 
+### Stage 1:
+
 
 **Link**: [Click here](https://drive.google.com/file/d/1yg2fcQNP5A2I62ja0g41BTXComa_xH1x/view?usp=sharing)
 
 
 ![stage1](2.png)
+
+
+
+
+### Stage 2:
 
 
 **Link**: [Click here](https://drive.google.com/file/d/1JeQ7GSQ3Q27JThGj7iMNCAnM_f9-S-pq/view?usp=sharing)
