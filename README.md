@@ -83,7 +83,7 @@ Therefore, I have created a low-fidelity prototype to demonstrate how these feat
 **Link**: [Click here](https://drive.google.com/file/d/19hK_bBZsYS5bh595wMVNabMJeH-QMKyg/view?usp=sharing)
 
 
-![Original](Dh150-Sem1-low fidelity Prototype -1.jpg)
+![Original](1.png)
 
 
 ### Revised
