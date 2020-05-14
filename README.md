@@ -90,7 +90,7 @@ Therefore, I have created a low-fidelity prototype to demonstrate how these feat
 ### Revised
 
 
-**Link**: Click here [https://drive.google.com/file/d/15jNLCwELA11nwOt0D2m19W228wFOzXPt/view?usp=sharing]
+**Link**: [Click here]https://drive.google.com/file/d/15jNLCwELA11nwOt0D2m19W228wFOzXPt/view?usp=sharing
 
 
 ![image](Dh150-Sem1-low fidelity Prototype -4.jpg)
@@ -100,7 +100,7 @@ Therefore, I have created a low-fidelity prototype to demonstrate how these feat
 
 
 
-**Link**: Click here[https://drive.google.com/file/d/1l4OHKrO3gWCV4rmZRiH9yH0knsXZAIUI/view?usp=sharing]
+**Link**: [Click here]https://drive.google.com/file/d/1l4OHKrO3gWCV4rmZRiH9yH0knsXZAIUI/view?usp=sharing
 
 
 
@@ -108,13 +108,13 @@ Therefore, I have created a low-fidelity prototype to demonstrate how these feat
 
 
 
-**Link**: Click here[https://drive.google.com/file/d/1yg2fcQNP5A2I62ja0g41BTXComa_xH1x/view?usp=sharing]
+**Link**: [Click here]https://drive.google.com/file/d/1yg2fcQNP5A2I62ja0g41BTXComa_xH1x/view?usp=sharing
 
 
 ![image](Dh150-Sem1-low fidelity Prototype -2.jpg)
 
 
-**Link**: Click here [https://drive.google.com/file/d/1JeQ7GSQ3Q27JThGj7iMNCAnM_f9-S-pq/view?usp=sharing]
+**Link**: [Click here]https://drive.google.com/file/d/1JeQ7GSQ3Q27JThGj7iMNCAnM_f9-S-pq/view?usp=sharing
 
 
 ![image](Dh150-Sem1-low fidelity Prototype -3.jpg)
